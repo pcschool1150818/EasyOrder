@@ -1,5 +1,5 @@
 # EasyOrder02 專案內容簡介
-
+[簡介說明](doc/EasyOrder02_Discussion_Summary.md)<br>
 ## 一、專案名稱
 
 **EasyOrder02**
