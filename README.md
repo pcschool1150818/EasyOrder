@@ -1,5 +1,6 @@
 # EasyOrder02 專案內容簡介
 [簡介說明](doc/EasyOrder02_Discussion_Summary.md)<br>
+![流程圖](doc/Gemini_Generated_Image_f7gn2wf7gn2wf7gn.jpg)<br>
 ## 一、專案名稱
 
 **EasyOrder02**
